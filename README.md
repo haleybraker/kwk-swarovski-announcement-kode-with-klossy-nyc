@@ -16,7 +16,7 @@ You can view `MOCKUP.jpg` by using the file navigator in your IDE and double cli
 
 Swarovski also provided us with the text for the landing page. You can find that text in `SOURCE.md`. Again, this is a typical industry standard workflow, where the developers are given copy for the site from the product team.
 
-Each line of text in this file corresponds to a note in `index.html` that will indicate where you'll need to add this information. It will be up to you to pick which HTML tags to use! (Hint: Revisit `Lesson: HTML Tags` if you're not sure which tags to use or how to write them.)
+Each line of text in this file corresponds to a note in `index.html` that will indicate where you'll need to add this information. It will be up to you to pick which HTML tags to use! If you're not sure which tags to use or how to write them, look back at your notes and do some Google searches.
 
 <img src="https://s3.amazonaws.com/upperline/curriculum-assets/swarovski_logo_v2016.png" hspace="10" style="border-radius: 25px; margin-bottom: 10px;"> 
 
@@ -28,7 +28,7 @@ When you're done with your work, it's important to push your work to GitHub. Rem
 
 ### Top Tip
 
-Images can be tricky. Take a look back at the the lesson from `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory. (Hint: use the  <img> tag)
+Images can be tricky. Take a look back at the the lesson notes for a refresher on how to link images that are stored in your project or lab directory. (Hint: use the  <img> tag)
 
 ### Starting Up
 
